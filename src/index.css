@@ -2,17 +2,28 @@
 @import "https://unpkg.com/leaflet@1.7.1/dist/leaflet.css";
 @import "https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap";
 
-/* These CSS variables are global, so they are available in all CSS modules */
 :root {
-  --color-brand--1: #ffb545;
-  --color-brand--2: #c350f8;
+  /* Брендовые цвета: современная пара, свежая и запоминающаяся */
+  --color-brand--1: #3b82f6;
+  /* ярко-синий (основной акцент) */
+  --color-brand--2: #22c55e;
+  /* зелёный (второй акцент, балансирует с синим) */
 
-  --color-dark--0: #242a2e;
-  --color-dark--1: #2d3439;
-  --color-dark--2: #42484d;
-  --color-light--1: #cac9c9;
-  --color-light--2: #ececec;
-  --color-light--3: #d6dee0;
+  /* Тёмные оттенки для фонов */
+  --color-dark--0: #0f172a;
+  /* почти чёрный с синим подтоном */
+  --color-dark--1: #1e293b;
+  /* глубокий slate */
+  --color-dark--2: #334155;
+  /* более мягкий фон (для карточек, панелей) */
+
+  /* Светлые оттенки для текста и поверхностей */
+  --color-light--1: #f1f5f9;
+  /* почти белый (текст/фон) */
+  --color-light--2: #e2e8f0;
+  /* светлый серо-голубой */
+  --color-light--3: #cbd5e1;
+  /* для бордеров, вторичного текста */
 }
 
 * {
