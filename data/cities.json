@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,19 +22,29 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "id": "87f3",
+      "cityName": "Mirninsky Ulus",
+      "country": "Russian Federation (the)",
+      "date": "2025-08-23T15:18:31.393Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
+        "lat": "64.32087157990325",
+        "lng": "109.33593750000001"
+      }
+    },
+    {
+      "id": "9af9",
+      "cityName": "Mitwaba",
+      "country": "Congo (the Democratic Republic of the)",
+      "date": "2025-08-23T15:18:35.849Z",
+      "notes": "",
+      "position": {
+        "lat": "-8.407168163601076",
+        "lng": "27.773437500000004"
+      }
     }
   ]
 }

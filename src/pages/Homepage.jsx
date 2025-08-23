@@ -7,17 +7,7 @@ export default function Homepage() {
     <main className={styles.homepage}>
       <PageNav />
       <section>
-        {/*  <h1>
-          You roam the globe.
-          <br />
-          <span className={styles.title}>My Places</span> logs every adventure.
-        </h1>
-        <h2>
-          A global map that marks every city you visit. Relive your best moments
-          and share your travels with friends.
-        </h2> */}
-
-        <Link to={"app"} className="cta">
+        <Link to={"login"} className="cta">
           Start right now
         </Link>
       </section>
