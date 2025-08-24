@@ -3,7 +3,7 @@
 **My Places** is a small project where you can mark places on the map that you have visited and leave notes or comments about them.  
 It is built as a portfolio/demo app to show skills with React and modern frontend tools.
 
-🔗 **Demo:** [My Places](https://github.com/Alexander-webov/My-places)
+🔗 **Demo:** [My Places](https://my-places-eta.vercel.app/)
 
 ---
 
